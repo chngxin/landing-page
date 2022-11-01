@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0; 
+}
+.header {
+    display: flex; 
+    justify-content: space-between;
+    align-items: baseline;
+}
+
+.header ul {
+    list-style-type: none;
+    display: flex; 
+    gap: 1em; 
+}
